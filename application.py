@@ -4,7 +4,7 @@ from py.formCadastro import *
 from py.authentication import *
 
 
-application = Flask(__name__)
+application = Flask(__novanMateus__)
 CORS(application)
 
 
